@@ -2,5 +2,17 @@
     <string name="app_name">Happy Birthday</string>
     <string name="happy_birthday_text">Happy Birthday Sam!</string>
     <string name="signature_text">From Emma</string>
+    <string name="rayen_dlimi">Rayen Dlimi</string>
+    <string name="mobile_developper">Mobile Developper</string>
 
+    <string name="lemon_tree">Tap the empty glass to start again</string>
+    <string name="lemon_drink">Tap the lemonade to drink it</string>
+    <string name="lemon_squeeze">Keep tapping the lemon to squeeze it</string>
+    <string name="lemon_restart">Tap the lemon tree to select a lemon</string>
+
+
+    <string name="lemon_tree_description">Tap the empty glass to start again</string>
+    <string name="lemon_drink_description">Tap the lemonade to drink it</string>
+    <string name="lemon_squeeze_description">Keep tapping the lemon to squeeze it</string>
+    <string name="lemon_restart_description">Tap the lemon tree to select a lemon</string>
 </resources>

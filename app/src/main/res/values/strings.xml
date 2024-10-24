@@ -10,9 +10,45 @@
     <string name="lemon_squeeze">Keep tapping the lemon to squeeze it</string>
     <string name="lemon_restart">Tap the lemon tree to select a lemon</string>
 
-
     <string name="lemon_tree_description">Tap the empty glass to start again</string>
     <string name="lemon_drink_description">Tap the lemonade to drink it</string>
     <string name="lemon_squeeze_description">Keep tapping the lemon to squeeze it</string>
     <string name="lemon_restart_description">Tap the lemon tree to select a lemon</string>
+
+
+
+    <string name="traveler">Traveler</string>
+    <string name="traveler_year">2024</string>
+    <string name="sayu"> Sayu</string>
+    <string name="sayu_year">2023</string>
+    <string name="gamiing">Gaming</string>
+    <string name="gaming_year">2022</string>
+    <string name="barbara">Barbara</string>
+    <string name="barbara_year">2021</string>
+
+    <string name="architecture">Architecture</string>
+    <string name="automotive">Automotive</string>
+    <string name="biology">Biology</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="ecology">Ecology</string>
+    <string name="engineering">Engineering</string>
+    <string name="fashion">Fashion</string>
+    <string name="finance">Finance</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="geology">Geology</string>
+    <string name="drawing">Drawing</string>
+    <string name="history">History</string>
+    <string name="journalism">Journalism</string>
+    <string name="law">Law</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="physics">physics</string>
+    <string name="tech">Tech</string>
+
 </resources>
